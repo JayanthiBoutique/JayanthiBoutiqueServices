@@ -13,7 +13,7 @@ const ContactSection: React.FC = () => {
     e.preventDefault();
 
     try {
-      const res = await fetch('https://formsubmit.co/ajax/harivignesh526@gmail.com', {
+      const res = await fetch('https://formsubmit.co/ajax/jayanthiboutiqueservices@gmail.com', {
         method: 'POST',
         headers: {
           'Content-Type': 'application/json',

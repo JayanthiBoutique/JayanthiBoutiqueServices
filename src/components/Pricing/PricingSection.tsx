@@ -26,7 +26,7 @@ const PricingSection: React.FC = () => {
                   <p className="text-dark-700 text-sm">Perfect for regular occasions</p>
                 </div>
                 <div className="text-gold-500 font-serif text-xl font-bold">
-                  Starting from ₹350
+                  Starting from ₹400
                 </div>
               </div>
               

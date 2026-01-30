@@ -69,14 +69,6 @@ const ContactSection: React.FC = () => {
                     <h4 className="text-lg font-medium text-gold-400 mb-1">WhatsApp</h4>
                     <div className="flex flex-col space-y-1">
                       <a
-                        href="https://wa.me/919380596699"
-                        target="_blank"
-                        rel="noopener noreferrer"
-                        className="text-dark-800 hover:text-gold-500 transition-colors"
-                      >
-                        +91 9380596699
-                      </a>
-                      <a
                         href="https://wa.me/918680938059"
                         target="_blank"
                         rel="noopener noreferrer"
